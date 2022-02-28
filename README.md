@@ -8,6 +8,25 @@
 *HTML 
 *CSS3
 
+Live Demo
+http://127.0.0.1:5500/index.html
+
+Getting Started
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+
+To get a local copy up and running follow these simple example steps.
+
+Prerequisites: VS code editor and gitbash
+Setup :
+In the VS code add 1 HTML and 1 CSS file
+add a copy of [.github/workflows/linters.yml] to .github/workflows folder
+Add .gitignore file where we are keeping the files which we have to ignore.
+Add linter files .hintrc and .stylelintrc.json to fix the errors
+Add test.md file but it should be ignored
+Install: node.js
+Usage:
+Right click inside the HTML file and open with live server or double click the HTML file
+
 <h2>Authors</h2>
 
 <h3>👤 Hamid</h3>
